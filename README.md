@@ -1,5 +1,5 @@
 
-- I to do random stuff :p 
+- I do random stuff :p 
 
 ## Some links?:
 
