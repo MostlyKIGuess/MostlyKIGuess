@@ -1,6 +1,6 @@
 <h3 align="center">Krish Pandya</h3>
 
-<p align="center">
+<p>
 Hi, I'm Krish, an undergraduate researcher at the <a href="https://robotics.iiit.ac.in/">Robotics Research Center</a>, IIIT Hyderabad.<br>
 My research goal is to build lifelong representations for robots. By that I mean a representation that a robot can keep updating as it acts, and that we can understand.
 </p>
